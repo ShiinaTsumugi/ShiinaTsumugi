@@ -1,6 +1,6 @@
-# [Nama Anda]
+# [Shiina Tsumugi]
 
-## Halo, Saya [Nama Anda] 👋
+## Halo, Saya [Shiina Tsumugi] 👋
 
 Saya adalah seorang [Jenis Pengembang atau Profesi Anda] dengan minat dalam [Bidang-bidang Khusus Anda]. Saya sangat menikmati berkolaborasi dengan orang-orang di seluruh dunia dalam proyek-proyek terbuka.
 
@@ -32,7 +32,7 @@ Berikut adalah beberapa bahasa pemrograman dan alat yang saya gunakan:
 
 ## Statistik GitHub
 
-[![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=nama-username&show_icons=true&count_private=true&theme=dark)](https://github.com/nama-username)
+[![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=ShiinaTsumugi&show_icons=true&count_private=true&theme=dark)](https://github.com/nama-username)
 
 ## Cara Menghubungi Saya
 
