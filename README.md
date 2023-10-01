@@ -1,46 +1,49 @@
-# [Shiina Tsumugi]
+# Hello, I'm Johannes! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
 
-## Halo, Saya [Shiina Tsumugi] 👋
+<a href="https://github.com/johannes2803"><img src="https://cardivo.vercel.app/api?name=Johannes&description=Hi,%20I'm%20Johannes%20and%20I'm%20just%20a%20newbie%20programmer.%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/5ad7ba96040d0e4ba5cbe.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@johannes28_&github=johannes2803&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
-Saya adalah seorang [Jenis Pengembang atau Profesi Anda] dengan minat dalam [Bidang-bidang Khusus Anda]. Saya sangat menikmati berkolaborasi dengan orang-orang di seluruh dunia dalam proyek-proyek terbuka.
+- 🌱 I’m currently learning **JavaScript**.
+- 👀 I'm focusing on improving my skills in **JavaScript**.
+- 🤗 Follow my GitHub account: [`@Johannes2803`](https://github.com/Johannes2803/).
 
-- 🌱 Saat ini, saya sedang belajar tentang [Teknologi/Tema yang Sedang Anda Pelajari].
-- 👯 Saya tertarik untuk berkolaborasi pada proyek-proyek open source yang menarik.
-- 💬 Tanyakan saya tentang [Apa pun yang Anda Ingin Tanyakan kepada Saya].
+### Skills and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
+  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+</p>
 
-## Pengalaman
+### GitHub Stats
+<p align="center">
+  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api?username=Johannes2803&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+</p>
 
-- [Nama Perusahaan atau Proyek]: Deskripsi singkat tentang pengalaman Anda di sini.
+### Top Languages
+<p align="center">
+  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Johannes2803&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
 
-## Proyek
+### GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johannes2803&theme=juicyfresh" />
+</p>
 
-Berikut adalah beberapa proyek menarik yang sedang atau telah saya kerjakan:
+### GitHub Streak
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johannes2803" />
+</p>
 
-- [Nama Proyek 1]: Deskripsi singkat tentang proyek 1.
-  - [Tautan ke Repositori Proyek 1]
-- [Nama Proyek 2]: Deskripsi singkat tentang proyek 2.
-  - [Tautan ke Repositori Proyek 2]
+### Social Media
 
-## Bahasa dan Alat
-
-Berikut adalah beberapa bahasa pemrograman dan alat yang saya gunakan:
-
-- [Bahasa Pemrograman 1]
-- [Bahasa Pemrograman 2]
-- [Alat 1]
-- [Alat 2]
-
-## Statistik GitHub
-
-[![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=ShiinaTsumugi&show_icons=true&count_private=true&theme=dark)](https://github.com/nama-username)
-
-## Cara Menghubungi Saya
-
-Anda dapat menghubungi saya melalui [Email Anda] atau melalui media sosial:
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Situs Web Pribadi](https://www.your-website.com)
-
-Terima kasih sudah berkunjung ke profil GitHub saya! 😄
+* [`WhatsApp Admin `](https://wa.me/50370915639)
+* [`My Web`](https://marin.my.id)
 
